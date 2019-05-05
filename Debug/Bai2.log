@@ -1,0 +1,4 @@
+﻿  Bai2.cpp
+C:\Users\PhungVanHoang\source\repos\Bai2\Bai2.cpp(34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PhungVanHoang\source\repos\Bai2\Bai2.cpp(51): warning C4307: '+': integral constant overflow
+  Bai2.vcxproj -> C:\Users\PhungVanHoang\source\repos\Bai2\Debug\Bai2.exe
